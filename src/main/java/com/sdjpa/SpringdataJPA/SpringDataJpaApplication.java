@@ -22,6 +22,6 @@ public class SpringDataJpaApplication {
 					21
 			);
 			studentRepository.save(nyabuto);
-		}
+		};
 	}
 }
