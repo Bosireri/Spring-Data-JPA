@@ -17,4 +17,5 @@ This comprehensive course covers all aspects of Spring Data JPA, equipping you w
 - Transactions
 
 # Branches
-'Bosireri-patch-1'
+'git checkout Bosireri-patch-1'
+'git checkout Bosireri-patch-2'
